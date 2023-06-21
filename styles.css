@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+nav li{
+	margin:10px;
+	list-style:none;
+	float:left;
+}
+nav a{
+	text-decoration:none;
+}
+div{
+	margin:130px;
+	box-size:border-box;
+}
